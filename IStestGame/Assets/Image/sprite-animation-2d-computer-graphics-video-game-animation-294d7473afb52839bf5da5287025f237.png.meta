@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 1cd03687df275b246bd3e87f0a42315d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 439
+        width: 206
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e065fe29fbaa0a543bc458a9ede1733c
+      internalID: -2025411504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 416
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee1fed87adfb1f49b73b6a6b2e7590c
+      internalID: 1174418080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 405
+        width: 232
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0941d174e3deb0f4993b022ab1fd380a
+      internalID: 1058247000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_3
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 397
+        width: 194
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dc7990bc7118540a1dab46560b5e93
+      internalID: -414059196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_4
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 387
+        width: 202
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b267f7a06f3f5640abb7999c3348b7a
+      internalID: 759590655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 74
+        width: 204
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2756f80f3eef8d34eada001e745112c3
+      internalID: -235697352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 66
+        width: 233
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fce6ad862bff64a941736e0ba73e0d
+      internalID: -456599503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_7
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 71
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8f3a91cbfe0204d94f98f4e8d70747
+      internalID: -877591943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_8
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 51
+        width: 213
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12c7153fa5dae249a2b0f858bf0ce6e
+      internalID: 246056061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_9
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 63
+        width: 206
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b104e47dbeb4b3644b3e8e7c8b272fcc
+      internalID: 200679272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_0: -2025411504
+      sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_1: 1174418080
+      sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_2: 1058247000
+      sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_3: -414059196
+      sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_4: 759590655
+      sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_5: -235697352
+      sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_6: -456599503
+      sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_7: -877591943
+      sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_8: 246056061
+      sprite-animation-2d-computer-graphics-video-game-animation-294d7473afb52839bf5da5287025f237_9: 200679272
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
